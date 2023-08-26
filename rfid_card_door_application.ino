@@ -62,5 +62,5 @@ void loop()
 
     }
   }
-  detected_card.halt(); // kart yeniden okuma yapabilir...
+  detected_card.halt(); // card can be read again...
 }
